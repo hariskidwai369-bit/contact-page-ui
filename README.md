@@ -1,4 +1,4 @@
-<h1 align="center">🚀 A.I Chat Bot</h1>
+<h1 align="center">🚀 Contact Page UI</h1>
 
 <p align="center">
 A modern and responsive web project built by <b>Haris Kidwai</b>.
